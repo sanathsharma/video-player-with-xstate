@@ -4,7 +4,7 @@
 
 ### Preview
 
-![Preview Image](/video_player/src/preview/preview.JPG)
+![Preview Image](/src/preview/preview.JPG)
 
 ### Todos
 
